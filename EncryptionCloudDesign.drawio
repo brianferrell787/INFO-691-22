@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-03T14:19:00.378Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="04BBzrOQv_iXPX9QGl8D" version="18.1.3" type="github">
+<mxfile modified="2022-06-03T14:19:10.356Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HSRil_TawA30Ep3bP6NO" version="18.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1483" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -214,7 +214,7 @@
           <mxGeometry x="900.0000000000002" y="1287" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="gxRaYX6OKgZsaJezbjnv-87" value="lambda function takes encrypted file from userA s3, decrypts it, saves file as a s3 bucket that only the receiver (userB) has IAM roles for&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="230" y="20" width="660" height="80" as="geometry" />
+          <mxGeometry x="230" y="20" width="710" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gxRaYX6OKgZsaJezbjnv-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxRaYX6OKgZsaJezbjnv-98" target="gxRaYX6OKgZsaJezbjnv-89">
           <mxGeometry relative="1" as="geometry" />
