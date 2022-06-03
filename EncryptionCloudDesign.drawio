@@ -1,6 +1,6 @@
-<mxfile modified="2022-06-03T14:46:58.493Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2cVhyHUITql6sFRIbUS0" version="18.1.3" type="github">
+<mxfile modified="2022-06-03T14:50:48.369Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="h-4TXrqXbVMeLRJnDope" version="18.1.3" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1483" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,8 +54,8 @@
         <mxCell id="gxRaYX6OKgZsaJezbjnv-93" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.encrypted_data;" vertex="1" parent="gxRaYX6OKgZsaJezbjnv-42">
           <mxGeometry x="248" y="250" width="62" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="gxRaYX6OKgZsaJezbjnv-87" value="lambda function thatis triggered by eventbridge on schedule takes encrypted file from userA s3, decrypts it, saves file as a s3 bucket that only the receiver (userB) has IAM roles for&lt;br&gt;https://aws.amazon.com/premiumsupport/knowledge-center/s3-encrypt-specific-folder/&amp;nbsp;&lt;br&gt;https://www.ibm.com/docs/vi/atcm/1.3.1?topic=cir-creating-iam-role-s3-access-in-same-aws-account" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="200" y="20" width="740" height="80" as="geometry" />
+        <mxCell id="gxRaYX6OKgZsaJezbjnv-87" value="Scenario: You have a file that has sensitive data in it that needs to be sent to the only person in your company that is allowed to read it on a weekly basis&amp;nbsp;&lt;br&gt;&lt;br&gt;Solution:&lt;br&gt;Have a lambda function that&#39;s triggered by eventbridge on a weekly schedule that takes encrypted file from userA&#39;s s3 bucket, decrypts it, and saves the file as a s3 bucket that only the receiver (userB) has IAM roles for&lt;br&gt;&lt;br&gt;https://aws.amazon.com/premiumsupport/knowledge-center/s3-encrypt-specific-folder/&amp;nbsp;&lt;br&gt;https://www.ibm.com/docs/vi/atcm/1.3.1?topic=cir-creating-iam-role-s3-access-in-same-aws-account" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-50" width="740" height="150" as="geometry" />
         </mxCell>
         <mxCell id="gxRaYX6OKgZsaJezbjnv-100" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gxRaYX6OKgZsaJezbjnv-98" target="gxRaYX6OKgZsaJezbjnv-89">
           <mxGeometry relative="1" as="geometry" />
