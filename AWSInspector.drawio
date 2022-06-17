@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T14:12:07.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="OgB8q0FFlzOzEfMGMwlx" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T14:14:04.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="h2OZjaPuSpqsTWMv7BKT" version="19.0.0" type="github">
   <diagram id="vfEqKP0jAzs9FGb_3GJn" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,6 +12,9 @@
         </mxCell>
         <mxCell id="OLguAmvcdXXNK4KZTNF1-4" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
           <mxGeometry x="452" y="232" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OLguAmvcdXXNK4KZTNF1-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-5/50/totate-right-redo-refresh-repeat-128.png;sketch=0;fontFamily=Helvetica;fillColor=#D99A5F;" vertex="1" parent="1">
+          <mxGeometry x="341" y="122" width="216" height="216" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
