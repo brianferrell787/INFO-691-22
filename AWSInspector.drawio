@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T13:54:09.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6PE-67tYSPrQmqLahUV8" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T13:54:17.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tCD4S-Kn5Fw2DUKKE4-o" version="19.0.0" type="github">
   <diagram id="vfEqKP0jAzs9FGb_3GJn" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="370" y="210" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OLguAmvcdXXNK4KZTNF1-4" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="210" width="50" height="80" as="geometry" />
+          <mxGeometry x="440" y="210" width="50" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
