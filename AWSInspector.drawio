@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T13:24:33.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ul-C9bZZwIf1Hpz_mxsw" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-18T13:24:44.386Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KZDX9dwiFehtf1k-mzMm" version="20.0.1" type="github">
   <diagram id="vfEqKP0jAzs9FGb_3GJn" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
             <mxPoint x="143" y="352" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3-Ij3V4TZJFEqoKEfNg9-4" value="&lt;b&gt;Risk Score&lt;/b&gt;" style="sketch=0;outlineConnect=0;fillColor=#FF9933;strokeColor=#d79b00;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
+        <mxCell id="3-Ij3V4TZJFEqoKEfNg9-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Risk Score&lt;/font&gt;&lt;/b&gt;" style="sketch=0;outlineConnect=0;fillColor=#FF9933;strokeColor=#d79b00;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.sagemaker_model;" vertex="1" parent="1">
           <mxGeometry x="76" y="172" width="52" height="52" as="geometry" />
         </mxCell>
         <mxCell id="3-Ij3V4TZJFEqoKEfNg9-5" value="&lt;b style=&quot;font-size: 11px;&quot;&gt;Real-time&amp;nbsp;&lt;br&gt;finding&amp;nbsp;&lt;br&gt;notifications&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Alarm-128.png" vertex="1" parent="1">
