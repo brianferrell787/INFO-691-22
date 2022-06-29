@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-29T13:23:39.693Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="r9XBOc5HMhfqwgEL4tSY" version="20.0.1" type="github">
+<mxfile modified="2022-06-29T13:24:28.425Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pFpSMYM5qQTFup8Iyfzc" version="20.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1878" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -39,10 +39,10 @@
         <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-8" value="Direct Connect" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2_systems_manager;fillColor=#759C3E;gradientColor=none;hachureGap=4;" vertex="1" parent="7Xa9hDDNS_ztMjQHPyVZ-6">
           <mxGeometry x="30" y="24" width="79.5" height="82.5" as="geometry" />
         </mxCell>
-        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-16" value="office building" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_office_building;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-16" value="Partners and Supliers&lt;br&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_office_building;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="650" y="-140" width="100" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-17" value="users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
+        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-17" value="Public Users" style="sketch=0;outlineConnect=0;gradientColor=none;fontColor=#545B64;strokeColor=none;fillColor=#879196;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.illustration_users;pointerEvents=1;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="430" y="-154.5" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-18" value="Pre-Production Systems" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
