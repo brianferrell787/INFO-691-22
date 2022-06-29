@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-29T13:30:07.262Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dN1ww3pF73rhM19HmmL_" version="20.0.1" type="github">
+<mxfile modified="2022-06-29T13:30:58.885Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="W6QNQi8Vt_ptUjw6_2D7" version="20.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1878" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -73,6 +73,9 @@
         </mxCell>
         <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-36" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Secure Communications Network&lt;/span&gt;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;hachureGap=4;" vertex="1" parent="1">
           <mxGeometry x="740" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-37" value="Open Web Access" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-10" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
