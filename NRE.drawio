@@ -1,4 +1,4 @@
-<mxfile modified="2022-06-29T13:29:47.038Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8PNVNVgMhkFmjgLG2mxg" version="20.0.1" type="github">
+<mxfile modified="2022-06-29T13:30:07.262Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="dN1ww3pF73rhM19HmmL_" version="20.0.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1878" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -71,8 +71,8 @@
         <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-28" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=middle;html=1;verticalAlign=middle;aspect=fixed;align=left;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=secure_switch;fillColor=#ffcc99;strokeColor=#36393d;hachureGap=4;rotation=-90;direction=south;labelPosition=right;" vertex="1" parent="1">
           <mxGeometry x="660" y="-20" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-36" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Secure Communications Network&lt;/span&gt;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;hachureGap=4;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-10" width="40" height="30" as="geometry" />
+        <mxCell id="7Xa9hDDNS_ztMjQHPyVZ-36" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Secure Communications Network&lt;/span&gt;&#xa;&#xa;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="740" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
